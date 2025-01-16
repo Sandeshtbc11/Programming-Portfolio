@@ -63,5 +63,5 @@ The repository is organized into the following sections, following the structure
    ```bash
    git clone [repository URL]
 
-## Conclusion
+# Conclusion
 This Programming Portfolio demonstrates my growth in understanding and applying fundamental programming concepts through practical tasks and projects. The weekly exercises helped solidify my grasp of procedural programming, while the F1 Project showcased my ability to analyze data, generate reports, and create visualizations using tools like matplotlib and tabulate. With well-documented code and consistent use of Git and GitHub, this portfolio reflects both my technical progress and my commitment to developing clear, functional, and efficient programs.
